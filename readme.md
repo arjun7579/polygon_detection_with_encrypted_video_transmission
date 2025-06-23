@@ -45,7 +45,6 @@ g++ receiver_detect_polygon.cpp -o receiver `pkg-config --cflags --libs opencv4`
    or
    ```
    ./receiver_detect_polygon
-
    ```
 2. **Start the Sender** (drone):
 
